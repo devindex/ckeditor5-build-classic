@@ -49,6 +49,8 @@ ClassicEditor.builtinPlugins = [
 	ImageUpload,
 	Link,
 	List,
+	Paragraph,
+	Alignment,
 	MediaEmbed,
 	Paragraph,
 	PasteFromOffice,
