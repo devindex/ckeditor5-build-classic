@@ -83,7 +83,7 @@ ClassicEditor.defaultConfig = {
 		]
 	},
 	table: {
-		toolbar: [
+		contentToolbar: [
 			'tableColumn',
 			'tableRow',
 			'mergeTableCells'
