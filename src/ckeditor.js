@@ -49,14 +49,11 @@ ClassicEditor.builtinPlugins = [
 	ImageUpload,
 	Link,
 	List,
-	Paragraph,
-	Alignment,
 	MediaEmbed,
 	Paragraph,
 	PasteFromOffice,
 	Table,
 	TableToolbar,
-	Paragraph,
 	Alignment
 ];
 
