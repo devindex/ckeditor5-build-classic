@@ -37,6 +37,9 @@ module.exports = {
 					output: {
 						// Preserve CKEditor 5 license comments.
 						comments: /^!/
+					},
+					mangle: {
+						safari10: true
 					}
 				}
 			} )
